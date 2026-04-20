@@ -225,3 +225,5 @@ Files at the project root:
 - `bonny_slide_skill/` — original style guide (read-only local mount); canonical source
 
 No `ui_kits/` directory — the sole product surface is the slide deck itself, so `slides/` is the UI kit.
+#   b o n n y t  
+ 
